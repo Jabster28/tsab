@@ -4,6 +4,16 @@
   "description": "TypeScript And Beats, a JS&B clone.",
   "author": "Justyn Boyer <justynboyer@gmail.com>",
   "license": "ISC",
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Jabster28/tsab.git"
@@ -19,8 +29,13 @@
     "ua-parser-js": "^0.7.21"
   },
   "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
     "copy-webpack-plugin": "^6.0.1",
     "css-loader": "3.5.3",
+    "cz-conventional-changelog": "^3.2.0",
+    "husky": "^4.2.5",
+    "standard-version": "^8.0.0",
     "style-loader": "1.2.1",
     "ts-loader": "7.0.4",
     "typescript": "3.9.3",
