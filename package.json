@@ -24,6 +24,7 @@
     "ua-parser-js": "^0.7.21"
   },
   "devDependencies": {
+    "copy-webpack-plugin": "^6.0.1",
     "css-loader": "3.5.3",
     "style-loader": "1.2.1",
     "ts-loader": "7.0.4",
