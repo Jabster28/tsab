@@ -20,11 +20,11 @@
   },
   "main": "dist/example.js",
   "dependencies": {
-    "@types/fabric": "^3.6.3",
+    "@types/fabric": "^4.0.0",
     "@types/jquery": "^3.3.38",
     "@types/node": "^14.0.5",
     "@types/ua-parser-js": "^0.7.33",
-    "fabric": "^3.6.3",
+    "fabric": "^4.0.0",
     "jquery": "^3.5.1",
     "ua-parser-js": "^0.7.21"
   },
