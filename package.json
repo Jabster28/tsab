@@ -34,7 +34,7 @@
     "copy-webpack-plugin": "6.0.1",
     "css-loader": "3.5.3",
     "cz-conventional-changelog": "3.2.0",
-    "husky": "4.2.5",
+    "husky": "6.0.0",
     "standard-version": "8.0.0",
     "style-loader": "1.2.1",
     "ts-loader": "7.0.4",
