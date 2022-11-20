@@ -188,10 +188,10 @@
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
   integrity sha512-rr+OQyAjxze7GgWrSaJwydHStIhHq2lvY3BOC2Mj7KnzI7XK0Uw1TOOdI9lDoajEbSWLiYgoo4f1R51erQfhPQ==
 
-"@types/fabric@^3.6.3":
-  version "3.6.3"
-  resolved "https://registry.yarnpkg.com/@types/fabric/-/fabric-3.6.3.tgz#fb4e058dfd0fdb11e93ebc469687f6c7627acefe"
-  integrity sha512-RPH9ULuRsaeAEE+3KrT73AeDo7w6Yd16uBPQAHO71zigEsxu/MY5JaNr0OxFELrh9gcKI7tncHMdhyfa4oST4A==
+"@types/fabric@^4.0.0":
+  version "4.5.12"
+  resolved "https://registry.yarnpkg.com/@types/fabric/-/fabric-4.5.12.tgz#9c340075e166710c9da5e92afa157e5e171d9b12"
+  integrity sha512-rhRMpy+LMrRyxsDEjD78N48Qo+v7t1GEQvaEz8sm5efNsV+p4CHQCnN2wvgIyqPAIkiAGPPwSfVIBgluQP89Aw==
 
 "@types/jquery@^3.3.38":
   version "3.3.38"
